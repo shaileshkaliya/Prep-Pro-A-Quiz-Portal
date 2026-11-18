@@ -1,0 +1,173 @@
+[
+    {
+      "question": "What is React?",
+      "options": ["Library", "Framework", "Language", "Tool"]
+    },
+    {
+      "question": "What is JSX?",
+      "options": [
+        "JavaScript Extension",
+        "Java Syntax",
+        "HTML Renderer",
+        "React Library"
+      ]
+    },
+    {
+      "question": "Which method is used to update the state in React?",
+      "options": ["setState", "updateState", "changeState", "refreshState"]
+    },
+    {
+      "question": "What is the use of keys in React?",
+      "options": [
+        "To uniquely identify elements",
+        "To bind data",
+        "To store values",
+        "To create dynamic lists"
+      ]
+    },
+    {
+      "question": "What is a React Hook?",
+      "options": [
+        "A feature to use state and lifecycle",
+        "A rendering method",
+        "An event handler",
+        "A debugging tool"
+      ]
+    },
+    {
+      "question": "What does the useState hook do?",
+      "options": [
+        "Manages state in a functional component",
+        "Manages props in a component",
+        "Handles API calls",
+        "Defines CSS styles"
+      ]
+    },
+    {
+      "question": "What does the useEffect hook do?",
+      "options": [
+        "Handles side effects",
+        "Manages state",
+        "Handles form submissions",
+        "Renders JSX"
+      ]
+    },
+    {
+      "question": "What is the virtual DOM?",
+      "options": [
+        "An in-memory representation of the real DOM",
+        "A server-side rendering tool",
+        "A JavaScript library",
+        "An HTML parser"
+      ]
+    },
+    {
+      "question": "What is the purpose of React Router?",
+      "options": [
+        "To manage navigation",
+        "To create components",
+        "To handle forms",
+        "To manage state"
+      ]
+    },
+    {
+      "question": "What is Redux used for?",
+      "options": [
+        "State management",
+        "Routing",
+        "Form validation",
+        "Database integration"
+      ]
+    },
+    {
+      "question": "What is a React component?",
+      "options": [
+        "A reusable UI element",
+        "A data handler",
+        "A database",
+        "A CSS style"
+      ]
+    },
+    {
+      "question": "What is the difference between props and state?",
+      "options": [
+        "Props are read-only; state is mutable",
+        "Props are mutable; state is read-only",
+        "Props are for methods; state is for data",
+        "Props and state are the same"
+      ]
+    },
+    {
+      "question": "What is a higher-order component (HOC) in React?",
+      "options": [
+        "A function that takes a component and returns a new component",
+        "A component that is rendered last",
+        "A built-in React component",
+        "A component for managing CSS"
+      ]
+    },
+    {
+      "question": "What is the use of React.Fragment?",
+      "options": [
+        "To group multiple elements without adding extra DOM nodes",
+        "To render external libraries",
+        "To manage props",
+        "To optimize performance"
+      ]
+    },
+    {
+      "question": "What does the React.memo function do?",
+      "options": [
+        "Optimizes performance by memoizing components",
+        "Manages state in a component",
+        "Handles API requests",
+        "Renders a component repeatedly"
+      ]
+    },
+    {
+      "question": "How do you lift state up in React?",
+      "options": [
+        "By passing state from child to parent via props",
+        "By calling setState in child components",
+        "By using context",
+        "By modifying the DOM directly"
+      ]
+    },
+    {
+      "question": "What is the default behavior of the useEffect hook?",
+      "options": [
+        "Runs after every render",
+        "Runs only on mount",
+        "Runs only on unmount",
+        "Runs before rendering"
+      ]
+    },
+    {
+      "question": "How can you prevent unnecessary re-renders in React?",
+      "options": [
+        "By using React.memo and useCallback",
+        "By creating more components",
+        "By adding more props",
+        "By avoiding state updates"
+      ]
+    },
+    {
+      "question": "What does React.StrictMode do?",
+      "options": [
+        "Highlights potential problems in an application",
+        "Renders components twice",
+        "Manages application state",
+        "Styles components"
+      ]
+    },
+    {
+      "question": "What is the use of Context API in React?",
+      "options": [
+        "To share data between components without prop drilling",
+        "To handle form submissions",
+        "To optimize performance",
+        "To manage side effects"
+      ]
+    }
+  ]
+  

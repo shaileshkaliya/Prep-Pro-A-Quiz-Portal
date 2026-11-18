@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "questionContent": "What is the time complexity of inserting an element at the beginning of a linked list?",
+            "options": {
+                "A": "O(1)",
+                "B": "O(n)",
+                "C": "O(log n)",
+                "D": "O(n^2)"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which data structure is used for implementing recursion?",
+            "options": {
+                "A": "Stack",
+                "B": "Queue",
+                "C": "Heap",
+                "D": "Tree"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "What is the height of a binary tree with 'n' nodes in the best-case scenario?",
+            "options": {
+                "A": "O(log n)",
+                "B": "O(n)",
+                "C": "O(1)",
+                "D": "O(n log n)"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "Which traversal algorithm uses a stack?",
+            "options": {
+                "A": "Depth First Search (DFS)",
+                "B": "Breadth First Search (BFS)",
+                "C": "In-order Traversal",
+                "D": "Level Order Traversal"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "What is the main advantage of a Trie data structure?",
+            "options": {
+                "A": "Fast search for strings",
+                "B": "Memory efficiency",
+                "C": "Sorting numbers",
+                "D": "Storing large data"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 3
+        }
+    ]
+}

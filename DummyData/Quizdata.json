@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Java Basics Quiz",
+        "companyName": "TechCorp",
+        "quizTime": 30,
+        "numQuestions": 10
+    },
+    {
+        "title": "React Fundamentals Quiz",
+        "companyName": "CodeAcademy",
+        "quizTime": 45,
+        "numQuestions": 15
+    },
+    {
+        "title": "Spring Boot Essentials",
+        "companyName": "DevMasters",
+        "quizTime": 40,
+        "numQuestions": 12
+    },
+    {
+        "title": "Data Structures Challenge",
+        "companyName": "AlgoExpert",
+        "quizTime": 60,
+        "numQuestions": 20
+    },
+    {
+        "title": "Machine Learning Basics",
+        "companyName": "AI Institute",
+        "quizTime": 50,
+        "numQuestions": 18
+    }
+]

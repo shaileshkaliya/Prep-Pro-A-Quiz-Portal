@@ -1,0 +1,127 @@
+{
+    "quizName": "Wipro Technical Assessment",
+    "timeAllowed": 120,
+    "timeUsed": 104,
+    "Questions": [
+        {
+            "question": "What is the value of 12 * 12?",
+            "Options": [
+                "120",
+                "144",
+                "100",
+                "110"
+            ],
+            "explaination": "12 multiplied by 12 equals 144.",
+            "correctOption": 1,
+            "currentChoice": 1
+        },
+        {
+            "question": "Which of the following is not a programming language?",
+            "Options": [
+                "Java",
+                "C#",
+                "HTML",
+                "Python"
+            ],
+            "explaination": "HTML is a markup language, not a programming language.",
+            "correctOption": 2,
+            "currentChoice": 2
+        },
+        {
+            "question": "What is the perimeter of a square with side length 5 cm?",
+            "Options": [
+                "15 cm",
+                "20 cm",
+                "25 cm",
+                "30 cm"
+            ],
+            "explaination": "Perimeter of square = 4 * side length.",
+            "correctOption": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which is the largest number?",
+            "Options": [
+                "18",
+                "25",
+                "30",
+                "12"
+            ],
+            "explaination": "30 is the largest number.",
+            "correctOption": 2,
+            "currentChoice": 1
+        },
+        {
+            "question": "What is the value of 10 - 3 * 2?",
+            "Options": [
+                "4",
+                "10",
+                "14",
+                "5"
+            ],
+            "explaination": "Following BODMAS: 10 - (3*2) = 10 - 6 = 4.",
+            "correctOption": 0,
+            "currentChoice": 0
+        },
+        {
+            "question": "Which programming language is known for web backend development?",
+            "Options": [
+                "Ruby",
+                "Python",
+                "JavaScript",
+                "PHP"
+            ],
+            "explaination": "PHP is often used for backend web development.",
+            "correctOption": 3,
+            "currentChoice": 3
+        },
+        {
+            "question": "What is the result of 5 factorial?",
+            "Options": [
+                "120",
+                "100",
+                "60",
+                "30"
+            ],
+            "explaination": "5 factorial (5!) is 5 * 4 * 3 * 2 * 1 = 120.",
+            "correctOption": 0,
+            "currentChoice": -1
+        },
+        {
+            "question": "How many bits are in a byte?",
+            "Options": [
+                "8",
+                "16",
+                "32",
+                "64"
+            ],
+            "explaination": "1 byte = 8 bits.",
+            "correctOption": 0,
+            "currentChoice": 0
+        },
+        {
+            "question": "What is the capital of India?",
+            "Options": [
+                "Mumbai",
+                "Delhi",
+                "Kolkata",
+                "Chennai"
+            ],
+            "explaination": "Delhi is the capital of India.",
+            "correctOption": 1,
+            "currentChoice": 1
+        },
+        {
+            "question": "Which data structure follows the Last In, First Out (LIFO) principle?",
+            "Options": [
+                "Stack",
+                "Queue",
+                "Array",
+                "Linked List"
+            ],
+            "explaination": "A stack follows LIFO, meaning the last element added is the first one to be removed.",
+            "correctOption": 0,
+            "currentChoice": 0
+        }
+    ]
+}

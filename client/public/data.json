@@ -1,0 +1,43 @@
+{
+    "quizName":"PCCOE MC",
+    "timeAllowed":120,
+    "timeUsed":98,
+    "Questions":[
+        {
+            "question": "Que1",
+            "Options": [
+                "Option1 A",
+                "Option1 B",
+                "Option1 C",
+                "Option1 D"
+            ],
+            "explaination":"Ja re Lavdya",
+            "correctOption": 1,
+            "currentChoice": 1
+        },
+        {
+            "question": "Que2",
+            "Options": [
+                "Option2 A",
+                "Option2 B",
+                "Option2 C",
+                "Option2 D"
+            ],
+            "explaination":"Ja re Lavdya",
+            "correctOption": 0,
+            "currentChoice": 2
+        },
+        {
+            "question": "Que3",
+            "Options": [
+                "Option3 A",
+                "Option3 B",
+                "Option3 C",
+                "Option3 D"
+            ],
+            "explaination":"Ja re Lavdya",
+            "currentChoice": -1,
+            "correctOption": 1
+        }
+    ]
+}

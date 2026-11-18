@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "questionContent": "What is supervised learning?",
+            "options": {
+                "A": "Learning with labeled data",
+                "B": "Learning without labeled data",
+                "C": "Learning by rewards",
+                "D": "Learning by trial and error"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which algorithm is used for classification problems?",
+            "options": {
+                "A": "Linear Regression",
+                "B": "Logistic Regression",
+                "C": "K-Means Clustering",
+                "D": "Principal Component Analysis"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "What is the primary purpose of a cost function?",
+            "options": {
+                "A": "To optimize the learning rate",
+                "B": "To measure the accuracy",
+                "C": "To measure the error",
+                "D": "To select features"
+            },
+            "correctOptions": ["C"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "Which of the following is a feature scaling technique?",
+            "options": {
+                "A": "Standardization",
+                "B": "Regression",
+                "C": "Clustering",
+                "D": "Normalization"
+            },
+            "correctOptions": ["A", "D"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "What does the term 'overfitting' mean in machine learning?",
+            "options": {
+                "A": "Model performs well on training but poorly on unseen data",
+                "B": "Model performs equally on all datasets",
+                "C": "Model is too simple",
+                "D": "Model ignores the training data"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 3
+        }
+    ]
+}

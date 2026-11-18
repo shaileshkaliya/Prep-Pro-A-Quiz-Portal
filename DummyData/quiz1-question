@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "questionContent": "What is the default value of an int in Java?",
+            "options": {
+                "A": "0",
+                "B": "1",
+                "C": "null",
+                "D": "undefined"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which keyword is used to define a class in Java?",
+            "options": {
+                "A": "define",
+                "B": "class",
+                "C": "struct",
+                "D": "new"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which method is called first in a Java application?",
+            "options": {
+                "A": "main()",
+                "B": "start()",
+                "C": "init()",
+                "D": "run()"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "What is the size of an int in Java?",
+            "options": {
+                "A": "16 bits",
+                "B": "32 bits",
+                "C": "64 bits",
+                "D": "8 bits"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "Which exception is thrown when a thread is waiting for an object to be notified?",
+            "options": {
+                "A": "IllegalStateException",
+                "B": "InterruptedException",
+                "C": "NullPointerException",
+                "D": "ArithmeticException"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 3
+        }
+    ]
+}

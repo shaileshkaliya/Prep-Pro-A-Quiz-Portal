@@ -1,0 +1,79 @@
+{
+    "quizName": "PCCOE Q1",
+    "timeAllowed": 120,
+    "timeUsed": 98,
+    "Questions": [
+        {
+            "question": "What is the capital of India?",
+            "Options": [
+                "Mumbai",
+                "Delhi",
+                "Kolkata",
+                "Chennai"
+            ],
+            "explanation": "Delhi is the capital of India.",
+            "correctOption": 1,
+            "currentChoice": 1
+        },
+        {
+            "question": "If a train travels 60 km/h, how long will it take to cover 300 km?",
+            "Options": [
+                "3 hours",
+                "4 hours",
+                "5 hours",
+                "6 hours"
+            ],
+            "explanation": "Time = Distance / Speed = 300 km / 60 km/h = 5 hours.",
+            "correctOption": 2,
+            "currentChoice": -1
+        },
+        {
+            "question": "A number is increased by 20% and then decreased by 20%. What is the net change?",
+            "Options": [
+                "4% decrease",
+                "4% increase",
+                "No change",
+                "2% decrease"
+            ],
+            "explanation": "Let the number be 100. After 20% increase, it becomes 120. After 20% decrease, it becomes 96. So, there is a net decrease of 4%.",
+            "correctOption": 0,
+            "currentChoice": 1
+        },
+        {
+            "question": "A man can do a piece of work in 10 days. How many days will 2 men take to do the same work?",
+            "Options": [
+                "5 days",
+                "10 days",
+                "20 days",
+                "40 days"
+            ],
+            "explanation": "More men, less days. So, 2 men will take 10/2 = 5 days.",
+            "correctOption": 0,
+            "currentChoice": -1
+        },
+        {
+            "question": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+            "Options": [
+                "25",
+                "30",
+                "35",
+                "40"
+            ],
+            "explanation": "Total sum of 5 numbers = 5 * 20 = 100. Total sum of 4 numbers = 4 * 18 = 72. So, the removed number is 100 - 72 = 28.",
+            "correctOption": 2,
+            "currentChoice": 1
+        },
+        {
+            "question": "A shopkeeper buys a product for Rs 200 and sells it for Rs 250. What is his profit percentage?",
+            "Options": [
+                "20%",
+                "25%",
+                "30%",
+                "35%"
+            ],
+            "explanation": "Profit = Selling Price - Cost Price = 250 - 200 = 50. Profit percentage = (Profit / Cost Price) * 100 = (50 / 200) * 100 = 25%.",
+            "correctOption": 1,
+            "currentChoice": -1
+        }
+    ]
+}

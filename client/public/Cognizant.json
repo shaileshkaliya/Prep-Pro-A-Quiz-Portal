@@ -1,0 +1,137 @@
+{
+    "quizName": "Cognizant Online Quiz",
+    "quizTime": 120,
+    "timeUsed": 100,
+    "Questions": [
+        {
+            "question": "What is the sum of angles in a triangle?",
+            "Options": [
+                "90 degrees",
+                "180 degrees",
+                "360 degrees",
+                "270 degrees"
+            ],
+            "explaination": "The sum of all angles in a triangle is always 180 degrees.",
+            "correctOption": 1,
+            "currentChoice": -1,
+            "questionCategory": 1
+        },
+        {
+            "question": "What is the value of 25% of 200?",
+            "Options": [
+                "50",
+                "40",
+                "60",
+                "45"
+            ],
+            "explaination": "25% of 200 is 50.",
+            "correctOption": 0,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which of the following is an even number?",
+            "Options": [
+                "15",
+                "20",
+                "17",
+                "21"
+            ],
+            "explaination": "Even numbers are divisible by 2, so 20 is even.",
+            "correctOption": 1,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the value of x in the equation 3x + 6 = 15?",
+            "Options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "explaination": "Solve for x: 3x = 15 - 6 = 9, so x = 9/3 = 3.",
+            "correctOption": 0,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which country is the largest by land area?",
+            "Options": [
+                "United States",
+                "China",
+                "Canada",
+                "Russia"
+            ],
+            "explaination": "Russia is the largest country by land area.",
+            "correctOption": 3,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "Options": [
+                "1",
+                "2",
+                "3",
+                "5"
+            ],
+            "explaination": "2 is the smallest prime number.",
+            "correctOption": 1,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which of the following is the largest prime number?",
+            "Options": [
+                "11",
+                "13",
+                "7",
+                "17"
+            ],
+            "explaination": "17 is the largest prime number among these.",
+            "correctOption": 3,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "Options": [
+                "Earth",
+                "Mars",
+                "Venus",
+                "Saturn"
+            ],
+            "explaination": "Mars is called the Red Planet because of its reddish appearance.",
+            "questionCategory": 1,
+            "correctOption": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the square of 10?",
+            "Options": [
+                "50",
+                "100",
+                "150",
+                "120"
+            ],
+            "explaination": "The square of 10 is 10 * 10 = 100.",
+            "correctOption": 1,
+            "questionCategory": 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the result of 30 / 5?",
+            "Options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "explaination": "30 divided by 5 equals 6.",
+            "correctOption": 1,
+            "questionCategory": 1,
+            "currentChoice": -1
+        }
+    ]
+}

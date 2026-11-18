@@ -1,0 +1,138 @@
+{
+    "quizName": "Infosys Test",
+    "timeAllowed": 120,
+    "timeUsed": 108,
+    "Questions": [
+        {
+            "question": "What is 50% of 180?",
+            "Options": [
+                "80",
+                "90",
+                "100",
+                "110"
+            ],
+            "explaination": "50% of a number is half of the number.",
+            "correctOption": 1,
+            "currentChoice": -1,
+            "questionCategory" : 1
+
+        },
+        {
+            "question": "If x = 3, what is the value of 2x + 5?",
+            "Options": [
+                "11",
+                "8",
+                "9",
+                "7"
+            ],
+            "explaination": "Substitute x = 3 into the equation: 2*3 + 5 = 11.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the capital of France?",
+            "Options": [
+                "Paris",
+                "Rome",
+                "Berlin",
+                "Madrid"
+            ],
+            "explaination": "Paris is the capital of France.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "If a circle has a radius of 7 cm, what is its diameter?",
+            "Options": [
+                "10 cm",
+                "14 cm",
+                "7 cm",
+                "21 cm"
+            ],
+            "explaination": "Diameter = 2 * radius.",
+            "correctOption": 1,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which of these is the largest?",
+            "Options": [
+                "15",
+                "30",
+                "25",
+                "40"
+            ],
+            "explaination": "40 is the largest number.",
+            "correctOption": 3,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which is the correct form of 2 raised to the power of 3?",
+            "Options": [
+                "2 * 2 * 2",
+                "2 * 3",
+                "2 + 2 + 2",
+                "2 * 2 + 2"
+            ],
+            "explaination": "2 raised to the power of 3 means 2 multiplied by itself 3 times.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "How many degrees are in a triangle?",
+            "Options": [
+                "180",
+                "90",
+                "360",
+                "270"
+            ],
+            "explaination": "The sum of the angles in a triangle is always 180 degrees.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "If 5x = 25, what is x?",
+            "Options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "explaination": "Solve for x: x = 25 / 5.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "What is the value of pi (π) to two decimal places?",
+            "Options": [
+                "3.14",
+                "3.12",
+                "3.15",
+                "3.10"
+            ],
+            "explaination": "Pi (π) is approximately 3.14.",
+            "correctOption": 0,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        },
+        {
+            "question": "Which programming language is known as the backbone of web development?",
+            "Options": [
+                "Java",
+                "Python",
+                "JavaScript",
+                "C++"
+            ],
+            "explaination": "JavaScript is the language used for client-side web development.",
+            "correctOption": 2,
+            "questionCategory" : 1,
+            "currentChoice": -1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "questionContent": "Which annotation is used to specify a Spring Boot application?",
+            "options": {
+                "A": "@SpringBootApplication",
+                "B": "@SpringApplication",
+                "C": "@EnableAutoConfiguration",
+                "D": "@Configuration"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which starter dependency is required for building RESTful web services in Spring Boot?",
+            "options": {
+                "A": "spring-boot-starter-web",
+                "B": "spring-boot-starter-data",
+                "C": "spring-boot-starter-jdbc",
+                "D": "spring-boot-starter-mvc"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "What is the default embedded server used in Spring Boot?",
+            "options": {
+                "A": "Apache Tomcat",
+                "B": "Jetty",
+                "C": "Netty",
+                "D": "GlassFish"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "Which property is used to define the default port for a Spring Boot application?",
+            "options": {
+                "A": "server.port",
+                "B": "spring.port",
+                "C": "application.port",
+                "D": "http.port"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "How do you enable scheduling in Spring Boot?",
+            "options": {
+                "A": "@EnableScheduling",
+                "B": "@Scheduled",
+                "C": "@Configuration",
+                "D": "@EnableAsync"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 3
+        }
+    ]
+}

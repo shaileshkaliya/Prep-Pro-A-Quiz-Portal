@@ -1,0 +1,59 @@
+{
+    "questions": [
+        {
+            "questionContent": "What is the correct command to create a new React app?",
+            "options": {
+                "A": "npx create-react-app appName",
+                "B": "npm create-react-app appName",
+                "C": "npx react-new appName",
+                "D": "react-create-app appName"
+            },
+            "correctOptions": ["A"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "What is the use of ReactDOM in React?",
+            "options": {
+                "A": "To handle state",
+                "B": "To interact with the DOM",
+                "C": "To create components",
+                "D": "To manage CSS"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 1
+        },
+        {
+            "questionContent": "Which method is used to update the state in a class component?",
+            "options": {
+                "A": "updateState()",
+                "B": "setState()",
+                "C": "this.state",
+                "D": "changeState()"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "What is the purpose of useEffect in React?",
+            "options": {
+                "A": "To handle state",
+                "B": "To perform side effects",
+                "C": "To manage CSS",
+                "D": "To fetch styles"
+            },
+            "correctOptions": ["B"],
+            "questionCategory": 2
+        },
+        {
+            "questionContent": "What is a pure component in React?",
+            "options": {
+                "A": "A component that ignores props",
+                "B": "A component that re-renders on state change",
+                "C": "A component that prevents unnecessary rendering",
+                "D": "A component that only uses context"
+            },
+            "correctOptions": ["C"],
+            "questionCategory": 3
+        }
+    ]
+}

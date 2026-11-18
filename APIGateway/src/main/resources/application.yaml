@@ -1,0 +1,43 @@
+server:
+  address: 0.0.0.0
+  port: 8080
+spring:
+  application:
+    name: API-GATEWAY-SERVICE
+  cloud:
+    gateway:
+      routes:
+        - id: USER-SERVICE
+          uri: http://localhost:8083
+          predicates:
+            - Path=/user-service/**
+
+        - id: QUESTION-SERVICE
+          uri: http://localhost:8082
+          predicates:
+            - Path=/question-service/**
+
+        - id: QUIZ-SERVICE
+          uri: http://localhost:8081
+          predicates:
+            - Path=/quiz-service/**
+
+        - id: QPFENTRY-SERVICE
+          uri: http://localhost:8084
+          predicates:
+            - Path=/qpfentry-service/**
+
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins:
+              - "http://localhost:8090"
+            allowedMethods:
+              - GET
+              - POST
+              - PUT
+              - DELETE
+              - OPTIONS
+            allowedHeaders:
+              - "*"
+            allowCredentials: true

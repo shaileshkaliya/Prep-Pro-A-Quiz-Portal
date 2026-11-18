@@ -1,0 +1,127 @@
+{
+    "quizName": "TCS Aptitude Test",
+    "timeAllowed": 120,
+    "timeUsed": 98,
+    "Questions": [
+      {
+        "question": "What is the value of 5 + 8 * 3?",
+        "Options": [
+          "29",
+          "24",
+          "33",
+          "27"
+        ],
+        "explaination": "Follow the BODMAS rule.",
+        "correctOption": 1,
+        "currentChoice": 1
+      },
+      {
+        "question": "Which of the following is a prime number?",
+        "Options": [
+          "25",
+          "17",
+          "39",
+          "42"
+        ],
+        "explaination": "A prime number is divisible only by 1 and itself.",
+        "correctOption": 1,
+        "currentChoice": 2
+      },
+      {
+        "question": "What is the area of a rectangle with length 5 and width 3?",
+        "Options": [
+          "15",
+          "12",
+          "18",
+          "10"
+        ],
+        "explaination": "Area = Length * Width",
+        "correctOption": 1,
+        "currentChoice": -1
+      },
+      {
+        "question": "Which of these is an example of an even number?",
+        "Options": [
+          "7",
+          "10",
+          "15",
+          "17"
+        ],
+        "explaination": "Even numbers are divisible by 2.",
+        "correctOption": 1,
+        "currentChoice": 0
+      },
+      {
+        "question": "If a train travels 60 km in 1 hour, how far will it travel in 5 hours?",
+        "Options": [
+          "250 km",
+          "300 km",
+          "350 km",
+          "400 km"
+        ],
+        "explaination": "Speed = Distance/Time, so Distance = Speed * Time.",
+        "correctOption": 1,
+        "currentChoice": 1
+      },
+      {
+        "question": "Which of the following is the smallest prime number?",
+        "Options": [
+          "2",
+          "3",
+          "5",
+          "7"
+        ],
+        "explaination": "The smallest prime number is 2.",
+        "correctOption": 0,
+        "currentChoice": -1
+      },
+      {
+        "question": "What is the square root of 144?",
+        "Options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "explaination": "Square root of 144 is 12.",
+        "correctOption": 1,
+        "currentChoice": 1
+      },
+      {
+        "question": "If x + 5 = 12, what is the value of x?",
+        "Options": [
+          "7",
+          "12",
+          "17",
+          "2"
+        ],
+        "explaination": "Solve for x: x = 12 - 5.",
+        "correctOption": 0,
+        "currentChoice": 0
+      },
+      {
+        "question": "How many sides does a hexagon have?",
+        "Options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "explaination": "A hexagon has 6 sides.",
+        "correctOption": 1,
+        "currentChoice": 1
+      },
+      {
+        "question": "Which of the following is a leap year?",
+        "Options": [
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ],
+        "explaination": "A leap year occurs every 4 years. 2020 was a leap year.",
+        "correctOption": 0,
+        "currentChoice": 0
+      }
+    ]
+}
