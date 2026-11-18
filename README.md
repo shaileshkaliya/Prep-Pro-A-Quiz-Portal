@@ -1,8 +1,6 @@
 # Prep Pro — Quiz Portal
 
-Prep Pro is a full-stack quiz platform for creating, managing, and attempting quizzes. It uses a React frontend, a Java/Spring Boot microservices backend, an API gateway, service discovery, email support, and database tooling.
-
-> **Screenshots are coming soon.** The sections below include placeholders ready for images you add later.
+Prep Pro is a full-stack quiz platform for creating, managing, and attempting quizzes. It uses a React frontend, a Java/Spring Boot microservices backend, an API gateway, service discovery, email services, and bulk data upload support.
 
 ## ✨ Features
 
@@ -19,29 +17,15 @@ Prep Pro is a full-stack quiz platform for creating, managing, and attempting qu
 
 ## 📸 Screenshots
 
-### Landing Page
-
-<!-- Replace this placeholder with: ![Landing page](./screenshots/landing-page.png) -->
-
-> Screenshot coming soon
-
-### Quiz Dashboard
-
-<!-- Replace this placeholder with: ![Quiz dashboard](./screenshots/quiz-dashboard.png) -->
-
-> Screenshot coming soon
-
-### Quiz Attempt
-
-<!-- Replace this placeholder with: ![Quiz attempt](./screenshots/quiz-attempt.png) -->
-
-> Screenshot coming soon
-
-### Results and Reports
-
-<!-- Replace this placeholder with: ![Results and reports](./screenshots/results-and-reports.png) -->
-
-> Screenshot coming soon
+| Screenshot | Screenshot |
+|---|---|
+| ![Screenshot 1](./Screenshots/Screenshot%202025-04-21%20112744.png) | ![Screenshot 2](./Screenshots/Screenshot%202025-04-21%20112824.png) |
+| ![Screenshot 3](./Screenshots/Screenshot%202025-04-21%20112846.png) | ![Screenshot 4](./Screenshots/Screenshot%202025-04-21%20112854.png) |
+| ![Screenshot 5](./Screenshots/Screenshot%202025-04-21%20112914.png) | ![Screenshot 6](./Screenshots/Screenshot%202025-04-21%20112924.png) |
+| ![Screenshot 7](./Screenshots/Screenshot%202025-04-21%20112944.png) | ![Screenshot 8](./Screenshots/Screenshot%202025-04-21%20112955.png) |
+| ![Screenshot 9](./Screenshots/Screenshot%202025-04-21%20113006.png) | ![Screenshot 10](./Screenshots/Screenshot%202025-04-21%20113026.png) |
+| ![Screenshot 11](./Screenshots/Screenshot%202025-04-21%20113036.png) | ![Screenshot 12](./Screenshots/Screenshot%202025-04-21%20113141.png) |
+| ![Screenshot 13](./Screenshots/Screenshot%202025-04-21%20113331.png) | |
 
 ## 🏗️ Architecture
 
@@ -196,7 +180,7 @@ Prep-Pro-A-Quiz-Portal/
 ├── BulkDataUpload/         # Bulk upload service
 ├── DBDesign/               # Database design files
 ├── DummyData/              # Sample data
-├── screenshots/            # Add platform screenshots here later
+├── Screenshots/            # Application screenshots
 ├── *.sh                    # Setup and automation scripts
 └── *.py                    # Python automation utilities
 ```
